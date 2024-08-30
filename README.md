@@ -1,5 +1,6 @@
 # quantumchain
 A quantum-resistant blockchain platform designed for security, scalability, and interoperability
+
 Quantumchain: A Next-Generation Quantum-Resistant Blockchain Platform
 Quantumchain is an innovative blockchain platform designed to be resistant to quantum computing attacks, scalable, and interoperable with existing blockchain networks. As the capabilities of quantum computers advance, they pose a serious threat to current cryptographic algorithms that secure traditional blockchains. Quantumchain aims to mitigate these risks by integrating quantum-resistant cryptographic algorithms, providing a secure foundation for future digital transactions, data storage, and decentralized applications (dApps).
 
